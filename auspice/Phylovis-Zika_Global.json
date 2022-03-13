@@ -416,6 +416,7 @@
     "maintainers": [
       {
         "name": "Afra Shamnath | Vinod Scaria Lab",
+        "url": "http://vinodscaria.genomes.in"
       }
     ],
     "panels": [
@@ -423,7 +424,7 @@
       "map"
     ],
     "title": "Nextstrain build for Zika virus",
-    "updated": "2022-03-13"
+    "update": "2022-03-13"
   },
   "tree": {
     "branch_attrs": {
